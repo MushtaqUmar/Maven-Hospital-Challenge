@@ -3,7 +3,7 @@ Analyze Synthetic data on ~1k patients of Massachussets General Hospital (MGH) f
 ## Maven Analytics Project Submission Link: https://mavenanalytics.io/project/17456
 
 ### About this project
-
+ 
 ##### OBJECTIVE:
 
 The objective of this project was to create a high-level KPI report for Massachusetts General Hospital (MGH) using synthetic patient data(Near 1000 patients). The report provides crucial insights into patient admissions, length of stay, average cost per visit insurance coverage for procedures and much more to help in making good decisions.
